@@ -161,8 +161,8 @@ Building with LLMs can often feel like working inside a dark room. You send a pr
 
 Hungry for more? We have extensive documentation covering every aspect of this project.
 
-> [!TIP]
-> 📖 You'll find in-depth docs here: [DOCS/](file:///D:\AIML\Practice\AI-anime-movie-recommender-with-Evaluation-main\DOCS)
+> 💡 **Tip**  
+> 📖 You'll find in-depth docs here: [DOCS/](DOCS/)
 
 ### Navigation Guide:
 - 🏗️ **[Architecture Overview](DOCS/01_introduction_and_architecture.md)**: How the gears turn.
@@ -171,4 +171,5 @@ Hungry for more? We have extensive documentation covering every aspect of this p
 - ☁️ **[Deployment Guide](DOCS/09-CLOUD DEPLOYMENTT.md)**: Full walkthrough for GCP, Docker, and K8s.
 
 ---
+
 *Made with ❤️ for the Anime Community.*
