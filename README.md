@@ -165,10 +165,10 @@ Hungry for more? We have extensive documentation covering every aspect of this p
 > 📖 You'll find in-depth docs here: [DOCS/](file:///D:\AIML\Practice\AI-anime-movie-recommender-with-Evaluation-main\DOCS)
 
 ### Navigation Guide:
-- 🏗️ **[Architecture Overview](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/01_introduction_and_architecture.md)**: How the gears turn.
-- 🧪 **[Evaluation Framework](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/03_evaluation_framework.md)**: How we measure quality.
-- 📡 **[Observability Details](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/04_observability_and_tracing.md)**: Deep dive into LangSmith integration.
-- ☁️ **[Deployment Guide](file:///c:/Users/djadh/Downloads/Anime_Evals-main/DOCS/09-CLOUD%20DEPLOYMENTT.md)**: Full walkthrough for GCP, Docker, and K8s.
+- 🏗️ **[Architecture Overview](DOCS/01_introduction_and_architecture.md)**: How the gears turn.
+- 🧪 **[Evaluation Framework](DOCS/03_evaluation_framework.md)**: How we measure quality.
+- 📡 **[Observability Details](DOCS/04_observability_and_tracing.md)**: Deep dive into LangSmith integration.
+- ☁️ **[Deployment Guide](DOCS/09-CLOUD DEPLOYMENTT.md)**: Full walkthrough for GCP, Docker, and K8s.
 
 ---
 *Made with ❤️ for the Anime Community.*
