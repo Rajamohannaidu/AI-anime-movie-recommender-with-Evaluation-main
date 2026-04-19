@@ -168,7 +168,7 @@ Hungry for more? We have extensive documentation covering every aspect of this p
 - 🏗️ **[Architecture Overview](DOCS/01_introduction_and_architecture.md)**: How the gears turn.
 - 🧪 **[Evaluation Framework](DOCS/03_evaluation_framework.md)**: How we measure quality.
 - 📡 **[Observability Details](DOCS/04_observability_and_tracing.md)**: Deep dive into LangSmith integration.
-- ☁️ **[Deployment Guide](DOCS/09-cloud-deployment.md)**: Full walkthrough for GCP, Docker, and K8s.
+- ☁️ **[Deployment Guide](DOCS/09_CLOUD_DEPLOYMENTT.md)**: Full walkthrough for GCP, Docker, and K8s.
 
 ---
 
